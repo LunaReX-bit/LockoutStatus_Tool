@@ -3,7 +3,7 @@ Windows tool that displays lockout information about a particular user account.
 
 
 Want to see if the Active Directory (AD) user got locked out/password expired/on which DC it's locked out? 
-This tool is simnple and gives detailed infomartion about AD user account
+This tool is simple and gives detailed infomartion about AD user account lockouts.
 
 
 &nbsp;
