@@ -1,5 +1,5 @@
 # LockoutStatus_Tool
-Windows tool that displays lockout information about a particular user account in your organization.
+Windows tool that displays lockout information about a particular user account.
 
 
 Want to see if the Active Directory (AD) user got locked out/password expired/on which DC it's locked out? 
